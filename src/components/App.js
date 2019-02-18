@@ -27,11 +27,11 @@ class App extends Component {
           ingredients: [
             '1 Pizza Crust',
             '1 Jar of Pizza Sauce',
-            '3 oz Part-Skim Mozerella Cheese'
+            '3 oz Part-Skim Mozzarella Cheese'
           ],
           steps: [
             'Put sauce on crust',
-            'Sprinkle mozarella cheese over sauce',
+            'Sprinkle mozzarella cheese over sauce',
             'Bake at 350 degrees for 20 minutes'
           ],
           id: 'pizza'
